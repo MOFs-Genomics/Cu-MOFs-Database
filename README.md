@@ -1,4 +1,3 @@
 ## Welcome to Cu-MOFs Database!
 
-You can find solvent-free and disorder-free structure files of most experimental MOFs published on literature here. Specially, MOFs reported without the atomic coordinate files are constructed following the structure information provided in the corresponding synthetic studies.
-All the [structure file](https://github.com/Cu-MOFs/tttt/) are solvent-free and disorder-free, being suitable for direct use as input files in simulations.
+You can find guest-free and disorder-free structures of 502 experimental MOFs containing Cu paddle-wheel units, which were extracted from the CSD database of version 5.38 of with the updates up to February 2017. These structures are given in the car format and are converted into P1 symmetry using Materials Studio Software.
